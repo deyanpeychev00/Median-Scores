@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Median Scores
 ## JavaScript algorithmic task for manipulating arrays.
 
@@ -35,6 +34,3 @@ After the median of the current array is found, it is pushed in the final result
 ```javascript
 medianScoreArray.push(calculateMedian(sortedScoresArray.sort((a,b) => a-b)));
 ```
-=======
-# Median-Scores
->>>>>>> 106ea6eed5e9cbd1335591e8574ef2e547894d34
